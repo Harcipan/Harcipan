@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harcipan
 - 👀 I’m interested in film making, programming (web and game dev) and calisthenics.
-- 🌱 I’m currently learning at a High School in Hungary, Győr.
+- 🌱 I’m currently studying at the Budapest University of Technology and Economics (BUTE) in Hungary.
 
 <!---
 Harcipan/Harcipan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
