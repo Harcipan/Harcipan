@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harcipan
-- 👀 I’m interested in film making, programming (web and game dev) and calisthenics.
+- 👀 I’m interested in web and game dev, video creation, 3D printing and calisthenics.
 - 🌱 I’m currently studying at the Budapest University of Technology and Economics (BME VIK) in Hungary.
 
 <!---
